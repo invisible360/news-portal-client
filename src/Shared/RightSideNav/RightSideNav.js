@@ -1,7 +1,7 @@
 import React from 'react';
-import FindUs from '../LeftSideNav/FindUs';
-import LoginLink from '../LeftSideNav/LoginLink';
-import SlideCouresel from '../LeftSideNav/SlideCouresel';
+import FindUs from './FindUs';
+import LoginLink from './LoginLink';
+import SlideCouresel from './SlideCouresel';
 
 const RightSideNav = () => {
     return (
